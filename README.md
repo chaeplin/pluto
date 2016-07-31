@@ -1,5 +1,7 @@
 list
 ====
+[2016/08](2016/201608.md)
+ - multiple lightbulb with/without json payload
 
 [2016/07](2016/201607.md)
  - add mqtt-sw-temperature to Homekit accessories

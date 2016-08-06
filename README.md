@@ -1,6 +1,10 @@
 list
 ====
 [2016/08](2016/201608.md)
+ - homekit-accessories mqtt Aircon prototype
+ - add timeout to sseclient
+ - using loop_start() on python-rtmbot
+ - read only homebridge-mqttlock and homebridge-mqttdoor with json payload
  - multiple lightbulb with/without json payload
 
 [2016/07](2016/201607.md)

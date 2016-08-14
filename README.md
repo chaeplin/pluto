@@ -1,6 +1,9 @@
 list
 ====
 [2016/08](2016/201608.md)
+ - homebridge-mqtt-people
+ - homebridge-mqtt-nest-thermostat
+ - homebridge-mqtt-temperature
  - homekit-accessories mqtt Aircon prototype
  - add timeout to sseclient
  - using loop_start() on python-rtmbot
